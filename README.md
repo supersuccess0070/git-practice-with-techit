@@ -6,5 +6,5 @@ Practicing Git &amp; GitHub for collaboration.
 
 Add your GitHub username below:
 
-- [x] researcherhojin
-- [ ] ThanksChoi
+- [x] researchersoohyeon
+- [ ] ThanksCho
